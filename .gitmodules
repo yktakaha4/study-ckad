@@ -1,0 +1,3 @@
+[submodule "CKAD-exercises"]
+	path = CKAD-exercises
+	url = git@github.com:yktakaha4/CKAD-exercises.git
